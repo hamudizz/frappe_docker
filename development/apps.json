@@ -1,0 +1,14 @@
+[
+  
+  {
+    "url": "https://github.com/hamudizz/lawhlms.git",
+    "branch": "default"
+  },
+  
+  {
+    
+    "url": "https://github.com/frappe/builder.git",
+    "branch": "default"
+  }
+  
+]
